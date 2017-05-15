@@ -2,4 +2,4 @@
 lib/node_modules
 lib/.sass-cache
 css/styles.css.map
-sass
+javascripts/main.min.js.map
